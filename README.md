@@ -14,11 +14,11 @@ Pronouns: she/her
 
 ### Last 5 Books I've Read
 <!-- GOODREADS-LIST:START -->
-- [Hunger: A Memoir of (My) Body](https://www.goodreads.com/review/show/3032678621?utm_medium=api&utm_source=rss) by Roxane Gay
-- [The Alchemist](https://www.goodreads.com/review/show/4098598112?utm_medium=api&utm_source=rss) by Paulo Coelho
-- [Delicious in Dungeon, Vol. 8](https://www.goodreads.com/review/show/3670633631?utm_medium=api&utm_source=rss) by Ryoko Kui
-- [Gokushufudo: The Way of House Husband 2](https://www.goodreads.com/review/show/3786831097?utm_medium=api&utm_source=rss) by Kousuke Oono
-- [You're Never Weird on the Internet (Almost)](https://www.goodreads.com/review/show/2327249608?utm_medium=api&utm_source=rss) by Felicia Day
+- [Buy Yourself the F*cking Lilies: And Other Rituals to Fix Your Life, from Someone Who's Been There](https://www.goodreads.com/review/show/3562856452?utm_medium=api&utm_source=rss) by Tara Schuster
+- [Professional Troublemaker: The Fear-Fighter Manual](https://www.goodreads.com/review/show/3958212593?utm_medium=api&utm_source=rss) by Luvvie Ajayi Jones
+- [Princess Masako: Prisoner of the Chrysanthemum Throne](https://www.goodreads.com/review/show/3895097677?utm_medium=api&utm_source=rss) by Ben Hills
+- [Thief of Time (Discworld, #26; Death, #5)](https://www.goodreads.com/review/show/3895096894?utm_medium=api&utm_source=rss) by Terry Pratchett
+- [Hunger Makes Me a Modern Girl](https://www.goodreads.com/review/show/2327250113?utm_medium=api&utm_source=rss) by Carrie Brownstein
 <!-- GOODREADS-LIST:END -->
 
 <!--
