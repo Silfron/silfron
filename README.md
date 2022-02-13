@@ -12,6 +12,10 @@ Pronouns: she/her
 </a>
 <br>
 
+
+### Last 5 books I've read:
+<!-- GOODREADS-LIST:START --><!-- GOODREADS-LIST:END -->
+
 <!--
 **Silfron/silfron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
