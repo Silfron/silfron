@@ -17,3 +17,5 @@ jobs:
           goodreads_user_id: "11766359"
           shelf: "read"
           sort_by_fields: "user_read_at"
+          max_books_count: "5"
+          template: "- [$title]($url) by $author"
